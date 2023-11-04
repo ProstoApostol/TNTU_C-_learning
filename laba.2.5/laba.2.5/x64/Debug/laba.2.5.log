@@ -1,0 +1,5 @@
+﻿  Cinema.cpp
+E:\Все з предметів\2 Курс\ООП\laba.2.5\laba.2.5\Cinema.cpp(58,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  laba.2.5.vcxproj -> E:\Все з предметів\2 Курс\ООП\laba.2.5\x64\Debug\laba.2.5.exe

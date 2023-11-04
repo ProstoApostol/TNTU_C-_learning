@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  WholesaleBase.cpp
+E:\Все з предметів\2 Курс\ООП\laba.2.7.(1)\laba.2.7.(1)\WholesaleBase.cpp(73,22): warning C4101: 'Check3': unreferenced local variable
+E:\Все з предметів\2 Курс\ООП\laba.2.7.(1)\laba.2.7.(1)\WholesaleBase.cpp(73,14): warning C4101: 'Check2': unreferenced local variable
+E:\Все з предметів\2 Курс\ООП\laba.2.7.(1)\laba.2.7.(1)\WholesaleBase.cpp(73,6): warning C4101: 'Check1': unreferenced local variable
+  Generating Code...
+  laba.2.7.(1).vcxproj -> E:\Все з предметів\2 Курс\ООП\laba.2.7.(1)\x64\Debug\laba.2.7.(1).exe
